@@ -1,0 +1,4 @@
+com\springboot\crud\entity\Studentdata.class
+com\springboot\crud\controller\HomeController.class
+com\springboot\crud\repositary\StudentdataRepository.class
+com\springboot\crud\SpringbootCrud1Application.class
